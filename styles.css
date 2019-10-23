@@ -29,6 +29,11 @@ body {
     opacity: 0.5;
 }
 
+.herotext  {
+padding: 2.5em;
+
+}
+
 .footer {
     padding 1rem;
     background-color: orange;
