@@ -17,7 +17,7 @@ body {
 .hero-background-img:after  {
     content: "";
     position: absolute;
-    background-image: url("/Users/Funkhauser/dev/Courses/SPD-1.2/Make-A-Launch-Page/Women-coaching.jpeg");
+    background-image: url("/Women-coaching.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
