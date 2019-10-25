@@ -13,6 +13,7 @@ body {
     padding-top:200px;  
     padding-bottom:200px;
     background-image: url("Women-coaching.jpeg");
+    background-repeat: no-repeat;
 }
 
 .hero-background-img:after  {
