@@ -12,12 +12,12 @@ body {
     background: rgba(0, 0, 0, 0.3); /* If our image is bright, we can tone it down with this darker overlay */
     padding-top:200px;  
     padding-bottom:200px;
+    background-image: url("Women-coaching.jpeg");
 }
 
 .hero-background-img:after  {
     content: "";
     position: absolute;
-    background-image: url("Women-coaching.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
